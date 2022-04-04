@@ -19,7 +19,7 @@ elif random_number == 5:
 elif random_number == 6:
     answer = "Better not tell you now."
 elif random_number == 7:
-    panswer = "My sources say no."
+    answer = "My sources say no."
 elif random_number == 8:
     answer = "Outlook not so good."
 elif random_number == 9:
